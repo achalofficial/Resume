@@ -1,0 +1,43 @@
+{
+  "name": "John Doe",
+  "title": "Full Stack Developer",
+  "contact": {
+    "email": "john@example.com",
+    "phone": "+1-234-567-8900",
+    "location": "New York, NY",
+    "website": "https://johndoe.dev",
+    "linkedin": "https://linkedin.com/in/johndoe"
+  },
+  "summary": "Passionate full stack developer with 5+ years of experience building web applications.",
+  "skills": ["React", "Node.js", "Python", "SQL"],
+  "experience": [
+    {
+      "company": "TechCorp",
+      "title": "Software Engineer",
+      "start": "2021-01",
+      "end": "Present",
+      "description": "Developed scalable applications and REST APIs."
+    },
+    {
+      "company": "Web Solutions",
+      "title": "Junior Developer",
+      "start": "2018-06",
+      "end": "2020-12",
+      "description": "Worked on front-end development and UI improvements."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project A",
+      "url": "https://github.com/johndoe/project-a",
+      "description": "Open source React component library."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc Computer Science",
+      "institution": "University XYZ",
+      "year": "2018"
+    }
+  ]
+}
