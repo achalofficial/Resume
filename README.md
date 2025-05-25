@@ -44,6 +44,8 @@ npm run dev
 
 Open your browser and visit http://localhost:5173 to see your resume.
 
+---
+
 ### Project Structure 
 
 ```bash
@@ -60,9 +62,10 @@ resume-site/
 └── .gitignore           # Git ignore rules
 
 ```
-
+---
 ### Contributing
 Feel free to open issues or submit pull requests to improve the project!
 
+---
 ### License
 This project is open source and available under the MIT License

@@ -1,43 +1,153 @@
 {
-  "name": "John Doe",
-  "title": "Full Stack Developer",
-  "contact": {
-    "email": "john@example.com",
-    "phone": "+1-234-567-8900",
-    "location": "New York, NY",
-    "website": "https://johndoe.dev",
-    "linkedin": "https://linkedin.com/in/johndoe"
-  },
-  "summary": "Passionate full stack developer with 5+ years of experience building web applications.",
-  "skills": ["React", "Node.js", "Python", "SQL"],
-  "experience": [
-    {
-      "company": "TechCorp",
-      "title": "Software Engineer",
-      "start": "2021-01",
-      "end": "Present",
-      "description": "Developed scalable applications and REST APIs."
+    "personal_details": {
+        "name": "Achal",
+        "email": "achal.official@gmail.com",
+        "phone": "+91-8377833536",
+        "linkedin": "https://www.linkedin.com/in/achal",
+        "github": "https://github.com/achal"
     },
-    {
-      "company": "Web Solutions",
-      "title": "Junior Developer",
-      "start": "2018-06",
-      "end": "2020-12",
-      "description": "Worked on front-end development and UI improvements."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Project A",
-      "url": "https://github.com/johndoe/project-a",
-      "description": "Open source React component library."
-    }
-  ],
-  "education": [
-    {
-      "degree": "B.Sc Computer Science",
-      "institution": "University XYZ",
-      "year": "2018"
-    }
-  ]
+    "professional_summary": "Results-oriented Software Engineer with 2+ years, driven to build impactful user experiences. My expertise lies in architecting and developing highly responsive front-end and cross-platform mobile applications with JavaScript (React, Redux, React Native). I'm adept at translating product needs into robust designs, focusing on performance, clean architecture, and maintainability. My complementary skills in Go and Python ensure strong full-stack understanding and seamless API integration.",
+    "technical_skills": {
+        "languages": [
+            "GoLang (Gin, gRPC)",
+            "JavaScript (React, Redux, React Native)",
+            "Java",
+            "Python"
+        ],
+        "backend": [
+            "RESTful API development",
+            "Microservices architecture"
+        ],
+        "Database": [
+            "Structured Query Language-Normalisation, Indexing",
+            "Postgre-SQL",
+            "MongoDB"
+        ],
+        "cloud_devops": [
+            "AWS (EC2, S3, Lambda, RDS)",
+            "Docker",
+            "Kubernetes",
+            "CI/CD (Jenkins, GitHub Actions)"
+        ],
+        "system_design": [
+            "High-Level Design (HLD)",
+            "Low-Level Design (LLD)",
+            "Scalability"
+        ],
+        "tools_frameworks": [
+            "Git",
+            "VS Code",
+            "Postman",
+            "Jira",
+            "Agile Scrum"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Software Development Engineer",
+            "company": "Agriculture Insurance Company of India Ltd.",
+            "location": "New Delhi",
+            "duration": "Aug 2022 – Present",
+            "responsibilities": [
+                "Led the development of a cross-platform mobile application using React Native, integrating native modules and offline capabilities for a superior user experience.",
+                "Engineered scalable RESTful microservices and designed serverless functions (AWS Lambda) to support efficient, event-driven data processing and seamless API integration, while also implementing advanced caching and concurrency controls to enhance application responsiveness and reliability.",
+                "Managed secure, highly available object storage solutions (AWS S3) for robust file handling and access control.",
+                "Championed end-to-end solution delivery, collaborating closely with product, QA, and DevOps teams, and spearheading troubleshooting of complex production issues to minimize downtime and ensure high system availability."
+            ],
+            "key_achievements": [
+                "Reduced product release turnaround from 2 weeks to 2 hours through process automation and CI/CD pipeline enhancements.",
+                "Led backend development for the Non-Crop Insurance vertical, successfully processing over 1,000,000 enrolments, demonstrating expertise in handling high-volume transactional systems.",
+                "Developed expertise in system design (HLD/LLD), robust REST APIs, and impactful cross-platform mobile app development."
+            ]
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Object-Oriented Design",
+            "institution": "University of Alberta (Coursera)",
+            "date": "Aug 2024",
+            "skills": [
+                "Programming",
+                "Design Patterns",
+                "Software Architecture"
+            ]
+        },
+        {
+            "name": "Document Version Management System (Project Completion)",
+            "institution": "DRDO",
+            "date": "Aug 2024",
+            "skills": [
+                "Data Structures",
+                "Agile Development",
+                "Databases",
+                "Version Control"
+            ]
+        },
+        {
+            "name": "Generative AI & Web Development",
+            "institution": "LinkedIn Learning",
+            "date": "Aug 2024",
+            "skills": [
+                "Generative AI",
+                "Front-end Development",
+                "LLM Prompt Engineering"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "SARUS Mobile App",
+            "role": "Lead Developer",
+            "company": "Agriculture Insurance Company",
+            "duration": "Jan 2023 – Present",
+            "technologies": [
+                "JavaScript (React Native)",
+                "AWS S3",
+                "SQLite",
+                "AWS Lambda"
+            ],
+            "description": [
+                "Architected and led the development of a platform for efficient enrollment and tracking of cattle and farmers, reducing manual effort by an estimated 98%.",
+                "Optimized backend processes for high scalability and low latency, effectively handling large volumes of data and ensuring data integrity.",
+                "Designed a modular system architecture to facilitate future feature expansion and enhance long-term maintainability."
+            ]
+        },
+        {
+            "name": "Resume Maker",
+            "technologies": [
+                "JavaScript",
+                "Vite, React",
+                "JSon"
+            ],
+            "description": [
+                "Made an JSON based Resume maker, which accepts a JSON in a pre-defined format and Returns a Resume which is ATS Friendly",
+                "planning to Add AI-LLM enabled resume making based on Job Description and Option to add multiple Resumes"
+            ]
+        },
+        {
+            "name": "Scalable URL Shortener (Personal Project)",
+            "technologies": [
+                "GoLang",
+                "PostgreSQL",
+                "REST API"
+            ],
+            "description": [
+                "Developed a high-performance, resilient URL shortening service capable of efficient creation and redirection of shortened links.",
+                "Integrated PostgreSQL for durable storage of URL mappings and analytics, optimizing complex queries for speed and scalability.",
+                "Implemented robust RESTful APIs with stringent input validation, comprehensive error handling, and unique link generation logic.",
+                "Designed a modular, maintainable code architecture, enabling seamless future enhancements like link expiration and analytics."
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "authors": "[1] Achal, et al.",
+            "title": "System Model for Smart Precision Farming for High Crop Yielding",
+            "journal": "Journal of Computational and Theoretical Nanoscience",
+            "volume": "Vol. 16",
+            "issue": "Issue 10",
+            "pages": "pp. 4406-4411",
+            "date": "October 2019"
+        }
+    ]
 }
