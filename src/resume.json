@@ -3,14 +3,14 @@
         "name": "Achal",
         "email": "achal.official@gmail.com",
         "phone": "+91-8377833536",
-        "linkedin": "https://www.linkedin.com/in/achal",
-        "github": "https://github.com/achal"
+        "linkedin": "https://www.linkedin.com/in/achalofficial",
+        "github": "https://github.com/achalofficial"
     },
-    "professional_summary": "Results-oriented Software Engineer with 2+ years, driven to build impactful user experiences. My expertise lies in architecting and developing highly responsive front-end and cross-platform mobile applications with JavaScript (React, Redux, React Native). I'm adept at translating product needs into robust designs, focusing on performance, clean architecture, and maintainability. My complementary skills in Go and Python ensure strong full-stack understanding and seamless API integration.",
+    "professional_summary": "Results-oriented Software Engineer with 2+ years of experience, driven to build impactful user experiences. My expertise lies in architecting and developing highly responsive front-end and cross-platform mobile applications using JavaScript (React, Redux, React Native). I’m adept at translating product requirements into robust designs, with a focus on performance, clean architecture, and maintainability. Complementary skills in Go and Python strengthen my full-stack understanding and enable seamless API integration.",
     "technical_skills": {
         "languages": [
-            "GoLang (Gin, gRPC)",
             "JavaScript (React, Redux, React Native)",
+            "GoLang (Gin, gRPC)",
             "Java",
             "Python"
         ],
@@ -19,15 +19,12 @@
             "Microservices architecture"
         ],
         "Database": [
-            "Structured Query Language-Normalisation, Indexing",
-            "Postgre-SQL",
-            "MongoDB"
+            "Structured Query Language(SQL)-Normalisation, Indexing",
+            "Postgre-SQL"
         ],
         "cloud_devops": [
             "AWS (EC2, S3, Lambda, RDS)",
-            "Docker",
-            "Kubernetes",
-            "CI/CD (Jenkins, GitHub Actions)"
+            "CI/CD (GitHub Co-Pilot)"
         ],
         "system_design": [
             "High-Level Design (HLD)",
@@ -38,7 +35,6 @@
             "Git",
             "VS Code",
             "Postman",
-            "Jira",
             "Agile Scrum"
         ]
     },
@@ -59,6 +55,15 @@
                 "Led backend development for the Non-Crop Insurance vertical, successfully processing over 1,000,000 enrolments, demonstrating expertise in handling high-volume transactional systems.",
                 "Developed expertise in system design (HLD/LLD), robust REST APIs, and impactful cross-platform mobile app development."
             ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology",
+            "field": "Computer Science and Engineering",
+            "university": "Kurukshetra University",
+            "location": "Kurukshetra, Haryana",
+            "duration": "Aug 2016 – Aug 2020"
         }
     ],
     "certificates": [
@@ -99,7 +104,6 @@
             "name": "SARUS Mobile App",
             "role": "Lead Developer",
             "company": "Agriculture Insurance Company",
-            "duration": "Jan 2023 – Present",
             "technologies": [
                 "JavaScript (React Native)",
                 "AWS S3",
@@ -133,9 +137,7 @@
             ],
             "description": [
                 "Developed a high-performance, resilient URL shortening service capable of efficient creation and redirection of shortened links.",
-                "Integrated PostgreSQL for durable storage of URL mappings and analytics, optimizing complex queries for speed and scalability.",
-                "Implemented robust RESTful APIs with stringent input validation, comprehensive error handling, and unique link generation logic.",
-                "Designed a modular, maintainable code architecture, enabling seamless future enhancements like link expiration and analytics."
+                "Integrated PostgreSQL for durable storage of URL mappings and analytics, optimizing complex queries for speed and scalability."
             ]
         }
     ],
